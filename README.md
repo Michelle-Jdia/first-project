@@ -18,4 +18,4 @@
 ### Планы по доработке проекта 
 Доработка сайта на кроссбраузерность за счет занесения префиксов к свойствам.
 
- [Ссылка на гитхаб](https://github.com/Michelle-Jdia/my-project)
+ [Ссылка на гитхаб](https://michelle-jdia.github.io/first-project/)
